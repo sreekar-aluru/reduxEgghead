@@ -1,2 +1,0 @@
-# reduxEgghead
-Created with CodeSandbox
